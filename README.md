@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazysapien&label=Profile%20views&color=0e75b6&style=flat" alt="crazysapien" /> </p>
 
-- 🌱 I’m currently learning **Front end development using react**
+- 🌱 I’m constantly learning about **Web development and Web3.0**
 
-- 👨‍💻 All of my projects are available at [https://mohdshaim.vercel.app](https://mohdshaim.vercel.app)
+- 👨‍💻 All of my projects are available at [my website](https://mohdshaim.vercel.app)
 
-- 📝 I regularly write articles on [https://medium.com/@mohdshaim](https://medium.com/@mohdshaim)
+- 📝 Checkout my articles on [medium](https://medium.com/@mohdshaim)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **shaimmd8@gmail.com**
 
